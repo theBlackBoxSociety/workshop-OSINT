@@ -84,15 +84,11 @@ Some helpful examples are *(P = basic principles M = complex methods)*:
 Please make sure you have all of these platforms up and running on your device before attending the project week. If you fail to do so anyway, no worries we'll help you along...
 
 - Installing [Virtualbox + VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads) to run the Buscador (Ubuntu distro) as a virtual OS.
-
 - Installing [Buscador](https://inteltechniques.com/buscador/)
     *note: after installing Buscador in a virtual machine: if keyboard is in qwerty, open up terminal inside Buscador and type: setxkbmap fr*
-
 - Installing [Python 2](https://www.python.org/downloads/release/python-2715/)
-
 - Installing [Python 3](https://www.python.org/downloads/) (latest version)
     *You will need IDLE for version 2 and 3 (Python's Integrated Development and Learning Environment). When you open up the BBS python scripts there will probably be other dependencies that need to be installed. These will show up in the IDLE window (in red), telling you which ones are necessary for the software to run successfully.*
-
 - [P5.JS](https://p5js.org/download/) 
     *for these scripts it might be good to install a good code editor such as [Atom](https://atom.io/) or [Brackets](http://brackets.io/).*
     *To open the html files (containing the javascript files) use Firefox. In Chrome, you first need to fire up a local server, in terminal use this command line: `python -m SimpleHTTPServer then surf to localhost:8000 in your Chrome.`*
