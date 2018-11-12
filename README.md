@@ -65,10 +65,9 @@ We use the Buscador distribution system to collect OSINT info. With OSINT or &qu
 
 ### DATAVISUALISATION
 Some examples from the [Generative Gestaltung book & website](http://www.generative-gestaltung.de/)
-
-With PROCESSING
+**With PROCESSING**
     get [this Code Package](https://github.com/generative-design/Code-Package-Processing-3.x) + install [this library](https://github.com/generative-design/GenerativeDesignLibrary3)
-Or P5JS
+**Or P5.JS**
     get [this Code Package](https://github.com/generative-design/Code-Package-p5.js) + install [this library](https://github.com/generative-design/generative-design-library.js)
 
 Some helpful examples are *(P = basic principles M = complex methods)*:
@@ -91,8 +90,8 @@ Please make sure you have all of these platforms up and running on your device b
     *You will need IDLE for version 2 and 3 (Python's Integrated Development and Learning Environment). When you open up the BBS python scripts there will probably be other dependencies that need to be installed. These will show up in the IDLE window (in red), telling you which ones are necessary for the software to run successfully.*
 - [P5.JS](https://p5js.org/download/) 
     *for these scripts it might be good to install a good code editor such as [Atom](https://atom.io/) or [Brackets](http://brackets.io/).*
-    *To open the html files (containing the javascript files) use Firefox. In Chrome, you first need to fire up a local server, in terminal use this command line: `python -m SimpleHTTPServer then surf to localhost:8000 in your Chrome.`*
+    *To open the html files (containing the javascript files) use Firefox. In Chrome, you first need to fire up a local server, in terminal use this command line: `python -m SimpleHTTPServer then surf to localhost:8000` in your Chrome.*
 
 
 ## Essential Reading & Links to interesting people & projects
-See [this](https://github.com/theBlackBoxSociety/EssentialReading) & [this](https://github.com/theBlackBoxSociety/interestingPeople) gists
+See [this](https://github.com/theBlackBoxSociety/EssentialReading) & [this](https://github.com/theBlackBoxSociety/interestingPeople) repo's.
