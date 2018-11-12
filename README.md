@@ -22,7 +22,7 @@ The obtained data is then used as input for a [speed project](http://fffff.at/sp
 ## Syllabus
 
 ### TOUCHDESIGNER
-
+some info will follow
 
 ### WEBSCRAPING
 Web scraping is the collection of data via means other than a program that interacts with an API (or, via a human who uses a web browser). This is usually achieved by writing an automated program that retrieves data from a web server, collects this data (usually in the form of HTML and other files that compile web pages), and then &quot;parses&quot; that data to extract the necessary information from it.
@@ -68,21 +68,15 @@ Some examples from the [Generative Gestaltung book & website](http://www.generat
 
 With PROCESSING
     get [this Code Package](https://github.com/generative-design/Code-Package-Processing-3.x) + install [this library](https://github.com/generative-design/GenerativeDesignLibrary3)
-
 Or P5JS
     get [this Code Package](https://github.com/generative-design/Code-Package-p5.js) + install [this library](https://github.com/generative-design/generative-design-library.js)
 
 Some helpful examples are *(P = basic principles M = complex methods)*
-
-P.3.1.3 **Text Image** Analyze a text file and visualize the number of times a character is used.
-
-P.3.1.4 **Text Diagram** Analyze a text file and visualize the number of times a word is used.
-
-P.4.2.1 **Collage from image collection** This sketch assembles a collage from a folder of images after cropping, cutting and sorting.
-
-M.5. **Tree Diagrams** Tree diagrams are graphic representations of hierarchically structured data.
-
-M.6 **Dynamic data structures** Read, analyze and visualize data from the internet (using the XML dataformat). Examples with the Wikipedia api.
+1. P.3.1.3 **Text Image** Analyze a text file and visualize the number of times a character is used.
+2. P.3.1.4 **Text Diagram** Analyze a text file and visualize the number of times a word is used.
+3. P.4.2.1 **Collage from image collection** This sketch assembles a collage from a folder of images after cropping, cutting and sorting.
+4. M.5. **Tree Diagrams** Tree diagrams are graphic representations of hierarchically structured data.
+5. M.6 **Dynamic data structures** Read, analyze and visualize data from the internet (using the XML dataformat). Examples with the Wikipedia api.
 
 
 ### TECHNICAL
