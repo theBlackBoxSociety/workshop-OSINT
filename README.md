@@ -71,7 +71,7 @@ With PROCESSING
 Or P5JS
     get [this Code Package](https://github.com/generative-design/Code-Package-p5.js) + install [this library](https://github.com/generative-design/generative-design-library.js)
 
-Some helpful examples are *(P = basic principles M = complex methods)*
+Some helpful examples are *(P = basic principles M = complex methods)*:
 1. P.3.1.3 **Text Image** Analyze a text file and visualize the number of times a character is used.
 2. P.3.1.4 **Text Diagram** Analyze a text file and visualize the number of times a word is used.
 3. P.4.2.1 **Collage from image collection** This sketch assembles a collage from a folder of images after cropping, cutting and sorting.
