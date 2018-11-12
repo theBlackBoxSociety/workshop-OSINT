@@ -4,7 +4,7 @@ Syllabus for workshop taught at Media Art, KASK during projectweek1 Autumn 2018
  
     11-13 November 2018, Media Arts studio
 
-[No Cloud](https://github.com/theBlackBoxSociety/workshop-OSINT/blob/master/images/NoCloud.png)
+![No Cloud](https://github.com/theBlackBoxSociety/workshop-OSINT/blob/master/images/NoCloud.png)
 
 ## Description
 During this project week we institute the _Black Box Society_. BBS is a codelab with teachers and (former) students Media art with whom we want to write and share code that can be applied within art and design projects. All the BBS code and ideas will be published on the [BBS github page](https://github.com/theBlackBoxSociety) and are open source.
