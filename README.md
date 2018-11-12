@@ -65,45 +65,41 @@ We use the Buscador distribution system to collect OSINT info. With OSINT or &qu
 Some examples from the [Generative Gestaltung book & website](http://www.generative-gestaltung.de/)
 
 With PROCESSING
-- get [this Code Package](https://github.com/generative-design/Code-Package-Processing-3.x) + install [this library](https://github.com/generative-design/GenerativeDesignLibrary3)
+    get [this Code Package](https://github.com/generative-design/Code-Package-Processing-3.x) + install [this library](https://github.com/generative-design/GenerativeDesignLibrary3)
 
 Or P5JS
-- get [this Code Package](https://github.com/generative-design/Code-Package-p5.js) + install [this library](https://github.com/generative-design/generative-design-library.js)
+    get [this Code Package](https://github.com/generative-design/Code-Package-p5.js) + install [this library](https://github.com/generative-design/generative-design-library.js)
 
 Some helpful examples are _(P = basic principles M = complex methods)_
-P.3.1.3 Text Image
-Analyze a text file and visualize the number of times a character is used.
 
-P.3.1.4 Text Diagram
-Analyze a text file and visualize the number of times a word is used.
+P.3.1.3 _Text Image_ Analyze a text file and visualize the number of times a character is used.
 
-P.4.2.1 Collage from image collection
-This sketch assembles a collage from a folder of images after cropping, cutting and sorting.
+P.3.1.4 _Text Diagram_ Analyze a text file and visualize the number of times a word is used.
 
-M.5. Tree Diagrams
-Tree diagrams are graphic representations of hierarchically structured data.
+P.4.2.1 _Collage from image collection_ This sketch assembles a collage from a folder of images after cropping, cutting and sorting.
 
-M.6 Dynamic data structures
-Read, analyze and visualize data from the internet (using the XML dataformat). Examples with the Wikipedia api.
+M.5. _Tree Diagrams_ Tree diagrams are graphic representations of hierarchically structured data.
+
+M.6 _Dynamic data structures_ Read, analyze and visualize data from the internet (using the XML dataformat). Examples with the Wikipedia api.
 
 
 ### TECHNICAL
 
 Please make sure you have all of these platforms up and running on your device before attending the project week. If you fail to do so anyway, no worries we'll help you along...
 
-- [Virtualbox + VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+- Installing [Virtualbox + VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads) to run the Buscador (Ubuntu distro) as a virtual OS.
 
 - Installing [Buscador](https://inteltechniques.com/buscador/)
-    note: after installing Buscador in a virtual machine: if keyboard is in qwerty, open up terminal inside Buscador and type: setxkbmap fr
+    *note: after installing Buscador in a virtual machine: if keyboard is in qwerty, open up terminal inside Buscador and type: setxkbmap fr*
 
 - Installing [Python 2](https://www.python.org/downloads/release/python-2715/)
 
 - Installing [Python 3](https://www.python.org/downloads/) (latest version)
-    You will need IDLE for version 2 and 3 (Python's Integrated Development and Learning Environment). When you open up the BBS python scripts there will probably be other dependencies that need to be installed. These will show up in the IDLE window (in red), telling you which ones are necessary for the software to run successfully.
+    *You will need IDLE for version 2 and 3 (Python's Integrated Development and Learning Environment). When you open up the BBS python scripts there will probably be other dependencies that need to be installed. These will show up in the IDLE window (in red), telling you which ones are necessary for the software to run successfully.*
 
 - [P5.JS](https://p5js.org/download/) 
-    for these scripts it might be good to install a good code editor such as [Atom](https://atom.io/) or [Brackets](http://brackets.io/).
-    To open the html files (containing the javascript files) use Firefox. In Chrome, you first need to fire up a local server, in terminal use this command line: python -m SimpleHTTPServer then surf to localhost:8000 in your Chrome.
+    *for these scripts it might be good to install a good code editor such as [Atom](https://atom.io/) or [Brackets](http://brackets.io/).*
+    *To open the html files (containing the javascript files) use Firefox. In Chrome, you first need to fire up a local server, in terminal use this command line: python -m SimpleHTTPServer then surf to localhost:8000 in your Chrome.*
 
 
 ## Essential Reading & Links to interesting people & projects
