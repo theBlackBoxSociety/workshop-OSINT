@@ -22,7 +22,17 @@ The obtained data is then used as input for a [speed project](http://fffff.at/sp
 ## Syllabus
 
 ### TOUCHDESIGNER
-some info will follow
++The workshop TouchDesigner was taught by [Maarten Serpentier](http://other-robots.com/). 
+The are the [files](https://github.com/theBlackBoxSociety/workshop-OSINT/blob/master/TD/) used during the workshop.
+Links to resources:
+- [https://matthewragan.com/teaching-resources/touchdesigner/](https://matthewragan.com/teaching-resources/touchdesigner/)
+- [https://www.derivative.ca/Forum/](https://www.derivative.ca/Forum/)
+- [https://docs.derivative.ca/Main_Page](https://docs.derivative.ca/Main_Page)
+- [https://www.facebook.com/groups/touchdesignerhelp/](https://www.facebook.com/groups/touchdesignerhelp/)
+- [https://www.youtube.com/channel/UCbgFCfj0vp-nNGQ4hT5uEAg](https://www.youtube.com/channel/UCbgFCfj0vp-nNGQ4hT5uEAg)
+- [https://thebookofshaders.com/](https://thebookofshaders.com/)
+- [https://www.shadertoy.com/](https://www.shadertoy.com/)
+- and see also [this github repo](https://github.com/raganmd/TD-Examples)
 
 ### WEBSCRAPING
 Web scraping is the collection of data via means other than a program that interacts with an API (or, via a human who uses a web browser). This is usually achieved by writing an automated program that retrieves data from a web server, collects this data (usually in the form of HTML and other files that compile web pages), and then &quot;parses&quot; that data to extract the necessary information from it.
